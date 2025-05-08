@@ -25,3 +25,8 @@ Alternatively, one can provide the full path to the package:
 ```mma
 Get["/path/to/repository-ONinAdS/ONinAdS`"]
 ```
+
+## Showcase
+
+See the `ONinAdS-showcase.nb` file for a quick example of how to use the package.
+However, most of the interesting details are directly included in the package files (located in the `ONinAdS/` directory).
