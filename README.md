@@ -1,6 +1,10 @@
 # Finite-coupling spectrum of O(N) model in AdS — `ONinAdS` package
 
-Accompanying code for "Finite-coupling spectrum of O(N) model in AdS" [2503.16345 \[hep-th\]](https://arxiv.org/abs/2503.16345).
+The main purpose of this repository is to provide the accompanying code for "Finite-coupling spectrum of O(N) model in AdS" [2503.16345 \[hep-th\]](https://arxiv.org/abs/2503.16345).
+
+In addition, you can also find here the revised version of my master thesis:<br>
+  Jonáš Dujava, [Strongly Coupled Quantum Field Theory in Anti-de Sitter Spacetime](https://jdujava.github.io/ONinAdS/SCQFTinAdS.pdf) — Master Thesis<br>
+    `arXiv`: [2507.07111 \[hep-th\]](https://arxiv.org/abs/2507.07111), `GitHub`: [jdujava/ONinAdS](https://github.com/jdujava/ONinAdS)
 
 ## Software Requirements
 
@@ -34,6 +38,6 @@ However, most of the interesting details are directly included in the package fi
 
 ## Presentations
 
-In this repository we also include the slides from the following presentations:
+This repository also includes the slides from the following presentations:
 - March 27th 2025 — [ONinAdS-talk.pdf](https://jdujava.github.io/ONinAdS/Presentations/ONinAdS-talk.pdf)
 - April 4th 2025 — [ONinAdS-seminar.pdf](https://jdujava.github.io/ONinAdS/Presentations/ONinAdS-seminar.pdf)
